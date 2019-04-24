@@ -20,3 +20,5 @@ in this web model you can just download the model from [here](https://drive.goog
 1. 4 color is not enough,in fact,this program can get 20 color.but I don't have enough time design the front page.
 2. even you provide 4 color,some part of the sketch didn't follow these four color.we have to assume this is because the model
 3. not beautiful at all,like i said, this is just a temp project.
+4. the requirment of sketch is very high,basicly it should be 'clean'(which means no grey area just lines)
+5. the name of the img you upload should not contain any strange charcters(like"(\)),this can be solved but maybe later when i have some time
